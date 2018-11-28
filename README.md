@@ -1,6 +1,5 @@
 # playingcards_probabilities
-Various probabilities of situations with playing cards of a 52 card deck.
-
+Various probabilities of situations with playing cards of a 52 card deck and Monte-Carlo estimation of bit string values.
 
 playingcards.py:
 
